@@ -1,0 +1,6 @@
+{
+  "name": "JAMB UTME CBT & Past Questions",
+  "description": "Interactive JAMB UTME exam preparation app with authentic past questions (2015–2024), timed CBT mock exams, 8-key keyboard navigation, instant step-by-step explanations, topic drills, performance analytics, JAMB calculator, and AI Tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
